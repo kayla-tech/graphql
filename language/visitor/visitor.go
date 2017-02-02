@@ -3,8 +3,8 @@ package visitor
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/graphql-go/graphql/language/ast"
-	"github.com/graphql-go/graphql/language/typeInfo"
+	"github.com/kayla-tech/graphql/language/ast"
+	"github.com/kayla-tech/graphql/language/typeInfo"
 	"reflect"
 )
 

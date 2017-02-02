@@ -3,9 +3,9 @@ package gqlerrors
 import (
 	"fmt"
 
-	"github.com/graphql-go/graphql/language/ast"
-	"github.com/graphql-go/graphql/language/location"
-	"github.com/graphql-go/graphql/language/source"
+	"github.com/kayla-tech/graphql/language/ast"
+	"github.com/kayla-tech/graphql/language/location"
+	"github.com/kayla-tech/graphql/language/source"
 )
 
 type Error struct {
